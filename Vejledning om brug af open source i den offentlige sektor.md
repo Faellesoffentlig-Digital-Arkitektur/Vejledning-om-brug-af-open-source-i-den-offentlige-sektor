@@ -1,7 +1,5 @@
 # Vejledning om brug af open source i den offentlige sektor
 
-
-
 ## Målgruppe og læsevejledning
 
 Målgruppen for vejledningen er it-projektledere, -jurister og -arkitekter, indkøbere og contract managers samt it-chefer og andre strategiske beslutningstagere hos offentlige myndigheder, der skal tage stilling til anskaffelse af software, og som ønsker mere viden, konkrete eksempler og praktisk vejledning til brug af open source.
@@ -18,23 +16,31 @@ Offentlige myndigheder undgår så vidt muligt løsninger, der skaber afhængigh
 
 I valget mellem open source-software og proprietære løsninger er det ikke et spørgsmål om enten-eller, men om at vælge den løsning, der skaber værdi på baggrund af de udfordringer og behov, der er relevante for den enkelte myndighed.
 
-![image001](/sites/default/fileuploads/Metoder/Arkitekturmetoder/vejledning_om_brug_af_open_source/Figur%201.png)
+
+
+![Figur 1.png](C:\Users\B339605\Documents\GitHub\Vejledning-om-brug-af-open-source-i-den-offentlige-sektor\assets\Figur%201.png)
 
 Der er et stort potentiale i åbne og cirkulære forretningsmodeller og open source-software, der brugt på de rigtige områder kan bidrage til at understøtte bæredygtig udvikling, innovation og kvalitet, styrke danske virksomheders omstillingsparathed og konkurrenceevne og øge vækst og eksport af digitale løsninger.
 
-![image002](/sites/default/fileuploads/Metoder/Arkitekturmetoder/vejledning_om_brug_af_open_source/Figur%202.png)
+
+
+![Figur 2.png](C:\Users\B339605\Documents\GitHub\Vejledning-om-brug-af-open-source-i-den-offentlige-sektor\assets\Figur%202.png)
 
 Åbne standarder fremmer konkurrence på markedet for software og medvirker til, at offentlige it-systemer uanset valg af software kan udveksle informationer på tværs. De er det fælles sprog, systemerne bruger til at tale med og forstå hinanden.
 
 Der findes mange kendte og udbredte open source-softwareprodukter. Distributioner af Linux-styresystemet understøtter omkring 70 % af internettets 10 mio. mest besøgte hjemmesider, der ofte hostes på webservere som Nginx (33 %) eller Apache HTTP Server (24 %). 42 % af hjemmesiderne er udviklet med Wordpress, men også Drupal og Umbraco er open source. Omkring 65 % browser internettet med Google Chrome, og 84 % kører det Linux-baserede styresystem Android på deres smartphone.
 
-![image003](/sites/default/fileuploads/Metoder/Arkitekturmetoder/vejledning_om_brug_af_open_source/Figur%203.png)
+
+
+![Figur 3.png](C:\Users\B339605\Documents\GitHub\Vejledning-om-brug-af-open-source-i-den-offentlige-sektor\assets\Figur%203.png)
 
 Danske offentlige myndigheder bruger LibreOffice til tekstbehandling og QGIS til geodatabehandling, og 82 kommuner bruger OS2kitos - ofte sammen med et af de andre 21 OS2-produkter - til at holde styr på deres systemportefølje.
 
 Formålet med denne vejledning er ikke at opsætte et modsætningsforhold mellem brug af open source-software og proprietære løsninger. Derfor beskriver vejledningen en række af de vigtigste overvejelser ved anskaffelse, herunder **strategier og markedsafdækning**, **licenser og implementering** og **udvikling og vedligeholdelse**.
 
-![](/sites/default/fileuploads/Metoder/Arkitekturmetoder/vejledning_om_brug_af_open_source/Figur%204.png)
+
+
+![Figur 4.png](C:\Users\B339605\Documents\GitHub\Vejledning-om-brug-af-open-source-i-den-offentlige-sektor\assets\Figur%204.png)
 
 **Strategier og markedsafdækning** beskriver myndighedernes overvejelser om strategier for anskaffelse af open source-software og afdækning af markedet for både eksisterende open source-komponenter og proprietære løsninger.
 
@@ -52,7 +58,9 @@ Open source-software og proprietære løsninger kan sagtens sameksistere, hvis m
 
 Overordnet findes der tre strategier for anskaffelse af open source, som offentlige myndigheder har i værktøjskassen og kan anvende i forbindelse med it-anskaffelser:
 
-![image005](/sites/default/fileuploads/Metoder/Arkitekturmetoder/vejledning_om_brug_af_open_source/Figur%205.png)
+
+
+![Figur 5.png](C:\Users\B339605\Documents\GitHub\Vejledning-om-brug-af-open-source-i-den-offentlige-sektor\assets\Figur%205.png)
 
 * **Myndigheden genbruger fra hylderne** Offentlige myndigheder, der anvender denne strategi, genbruger eksisterende open source-software, hvor det er relevant. Det kan være komponenter eller enkeltstående applikationer, der er gode eller billige alternativer til proprietære løsninger. Denne strategi omfatter også myndigheder, der er mindre bevidste om, at de anvender open source.
 * **Myndigheden udvikler selv** Offentlige myndigheder, der anvender denne strategi, udvikler selv løsninger, der foruden at anvende eksisterende open source-komponenter udgives under en open source-licens. Det kan være for at stille software til rådighed for andre myndigheder eller virksomheder for at øge anvendelsen eller få andre til at bidrage til vedligeholdelsen.
@@ -85,7 +93,9 @@ F.eks. har OS2-fællesskabet omkring 70 leverandørpartnere, der producerer og o
 
 Dette er med til at validere open source som en udbredt og rentabel forretningsmodel på det danske leverandørmarked og viser med al tydelighed, at open source-software ikke er gratis, eller at en open source-strategi river tæppet væk under leverandørerne. Det er derimod en udviklingsmetode til at imødekomme udfordringer med at genbruge og videreudvikle digitale løsninger, der kommer af leverandøruafhængighed, teknisk gæld, kompetencetab og manglende ejerskab til kildekoden.
 
-![Et billede, der indeholder tekst Automatisk genereret beskrivelse](/sites/default/fileuploads/Metoder/Arkitekturmetoder/vejledning_om_brug_af_open_source/Figur%206.png)
+
+
+![Figur 6.png](C:\Users\B339605\Documents\GitHub\Vejledning-om-brug-af-open-source-i-den-offentlige-sektor\assets\Figur%206.png)
 
 Som tidligere beskrevet er open source ikke gratis, når man beregner en _Total Cost of Ownership_ (TCO). Ligesom ved anvendelse af closed source-software er der omkostninger til implementering, videreudvikling og løbende drift, support og vedligeholdelse. Det kræver samtidig også, at myndigheden har og kan allokere de nødvendige ressourcer til at stå for opgaverne. Dermed er der ikke blot tale om omkostninger til de faktiske opgaver, men også til at sikre, at organisationen har de rette kompetencer over tid.
 
@@ -118,7 +128,9 @@ EU-Kommissionen har sin egen open source-licens, [European Union Public License
 
 Licenser kan indeholde forskellige vilkår, f.eks. at publicerede videreudviklinger skal videregives under samme vilkår (såkaldte _copyleft_\-vilkår). Sådanne vilkår kan repræsentere behov for at sikre, at kildekoden ikke bliver genbrugt i proprietære løsninger.
 
-![Et billede, der indeholder tekst Automatisk genereret beskrivelse](/sites/default/fileuploads/Metoder/Arkitekturmetoder/vejledning_om_brug_af_open_source/Figur%207.png)
+
+
+![Figur 7.png](C:\Users\B339605\Documents\GitHub\Vejledning-om-brug-af-open-source-i-den-offentlige-sektor\assets\Figur%207.png)
 
 Der er mange forskellige licenser, og det er vigtigt at være bevidst om, at omstændighederne for at anvende open source-software kan ændre sig som følge af licensen. Forskellige licenstyper gør det f.eks. henholdsvis nemmere og sværere at vedligeholde eller overdrage softwaren, hvis man f.eks. indgår i samarbejder med andre myndigheder eller indgår aftale om videreudvikling med en leverandør.
 
@@ -145,7 +157,9 @@ Offentlige myndigheder kan med fordel udarbejde egne, og gerne fælles, strategi
 
 Implementering handler om samarbejdet mellem den offentlige myndighed som ordregiver og tilbudsgiver og senere leverandør af en digital løsning. Ved anskaffelse af open source-software afhænger kravene til implementering en del af den valgte strategi for anskaffelsen.
 
-![image008](/sites/default/fileuploads/Metoder/Arkitekturmetoder/vejledning_om_brug_af_open_source/Figur%208.png)
+
+
+![Figur 8.png](C:\Users\B339605\Documents\GitHub\Vejledning-om-brug-af-open-source-i-den-offentlige-sektor\assets\Figur%208.png)
 
 Hvis myndigheden genbruger open source-komponenter fra hylderne, er det ofte svært, men heller ikke nødvendigt, at stille krav til leverandøren om f.eks. licensform eller dokumentation. Det kan imidlertid - over tid - være en mulighed, at myndigheden engagerer sig i et fællesskab omkring komponenten og derigennem påvirker løsningen.
 
