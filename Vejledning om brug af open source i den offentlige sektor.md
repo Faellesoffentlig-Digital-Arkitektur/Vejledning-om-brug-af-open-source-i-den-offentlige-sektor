@@ -16,13 +16,13 @@ Offentlige myndigheder undgår så vidt muligt løsninger, der skaber afhængigh
 
 I valget mellem open source-software og proprietære løsninger er det ikke et spørgsmål om enten-eller, men om at vælge den løsning, der skaber værdi på baggrund af de udfordringer og behov, der er relevante for den enkelte myndighed.
 
-![Figur 1.png](C:\Users\B339605\Documents\GitHub\Vejledning-om-brug-af-open-source-i-den-offentlige-sektor\assets\Figur%201.png)
+![Figur 1.png](assets/Figur1.png)
 
 Figur 1
 
 Der er et stort potentiale i åbne og cirkulære forretningsmodeller og open source-software, der brugt på de rigtige områder kan bidrage til at understøtte bæredygtig udvikling, innovation og kvalitet, styrke danske virksomheders omstillingsparathed og konkurrenceevne og øge vækst og eksport af digitale løsninger.
 
-![Figur 2.png](C:\Users\B339605\Documents\GitHub\Vejledning-om-brug-af-open-source-i-den-offentlige-sektor\assets\Figur%202.png)
+![Figur 2.png](assets/Figur2.png)
 
 Figur 2
 
@@ -30,7 +30,7 @@ Figur 2
 
 Der findes mange kendte og udbredte open source-softwareprodukter. Distributioner af Linux-styresystemet understøtter omkring 70 % af internettets 10 mio. mest besøgte hjemmesider, der ofte hostes på webservere som Nginx (33 %) eller Apache HTTP Server (24 %). 42 % af hjemmesiderne er udviklet med Wordpress, men også Drupal og Umbraco er open source. Omkring 65 % browser internettet med Google Chrome, og 84 % kører det Linux-baserede styresystem Android på deres smartphone.
 
-![Figur 3.png](C:\Users\B339605\Documents\GitHub\Vejledning-om-brug-af-open-source-i-den-offentlige-sektor\assets\Figur%203.png)
+![Figur 3.png](assets/Figur%203.png)
 
 Figur 3
 
@@ -38,7 +38,7 @@ Danske offentlige myndigheder bruger LibreOffice til tekstbehandling og QGIS til
 
 Formålet med denne vejledning er ikke at opsætte et modsætningsforhold mellem brug af open source-software og proprietære løsninger. Derfor beskriver vejledningen en række af de vigtigste overvejelser ved anskaffelse, herunder **strategier og markedsafdækning**, **licenser og implementering** og **udvikling og vedligeholdelse**.
 
-![Figur 4.png](C:\Users\B339605\Documents\GitHub\Vejledning-om-brug-af-open-source-i-den-offentlige-sektor\assets\Figur%204.png)
+![Figur 4.png](assets/Figur4.png)
 
 Figur 4
 
@@ -58,7 +58,7 @@ Open source-software og proprietære løsninger kan sagtens sameksistere, hvis m
 
 Overordnet findes der tre strategier for anskaffelse af open source, som offentlige myndigheder har i værktøjskassen og kan anvende i forbindelse med it-anskaffelser:
 
-![Figur 5.png](C:\Users\B339605\Documents\GitHub\Vejledning-om-brug-af-open-source-i-den-offentlige-sektor\assets\Figur%205.png)
+![Figur 5.png](assets/Figur5.png)
 
 Figur 5
 
@@ -93,7 +93,7 @@ F.eks. har OS2-fællesskabet omkring 70 leverandørpartnere, der producerer og o
 
 Dette er med til at validere open source som en udbredt og rentabel forretningsmodel på det danske leverandørmarked og viser med al tydelighed, at open source-software ikke er gratis, eller at en open source-strategi river tæppet væk under leverandørerne. Det er derimod en udviklingsmetode til at imødekomme udfordringer med at genbruge og videreudvikle digitale løsninger, der kommer af leverandøruafhængighed, teknisk gæld, kompetencetab og manglende ejerskab til kildekoden.
 
-![Figur 6.png](C:\Users\B339605\Documents\GitHub\Vejledning-om-brug-af-open-source-i-den-offentlige-sektor\assets\Figur%206.png)
+![Figur 6.png](assets/Figur6.png)
 
 Figur 6
 
@@ -128,7 +128,7 @@ EU-Kommissionen har sin egen open source-licens, [European Union Public License
 
 Licenser kan indeholde forskellige vilkår, f.eks. at publicerede videreudviklinger skal videregives under samme vilkår (såkaldte _copyleft_\-vilkår). Sådanne vilkår kan repræsentere behov for at sikre, at kildekoden ikke bliver genbrugt i proprietære løsninger.
 
-![Figur 7.png](C:\Users\B339605\Documents\GitHub\Vejledning-om-brug-af-open-source-i-den-offentlige-sektor\assets\Figur%207.png)
+![Figur 7.png](assets/Figur7.png)
 
 Figur 7
 
@@ -157,7 +157,7 @@ Offentlige myndigheder kan med fordel udarbejde egne, og gerne fælles, strategi
 
 Implementering handler om samarbejdet mellem den offentlige myndighed som ordregiver og tilbudsgiver og senere leverandør af en digital løsning. Ved anskaffelse af open source-software afhænger kravene til implementering en del af den valgte strategi for anskaffelsen.
 
-![Figur 8.png](C:\Users\B339605\Documents\GitHub\Vejledning-om-brug-af-open-source-i-den-offentlige-sektor\assets\Figur%208.png)
+![Figur 8.png](assets/Figur8.png)
 
 Figur 8
 
