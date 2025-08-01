@@ -12,7 +12,7 @@ Open source handler ikke om it-afdelingens teknologiske præferencer, men er en 
 
 Danske myndigheder investerer massivt i digitalisering, og der er et stort behov for, at digitale løsninger er fleksible, sammenhængende og bygget til genbrug og forandring.
 
-Offentlige myndigheder undgår så vidt muligt løsninger, der skaber afhængighed af specifikke leverandører og teknologier, og [hvor det er relevant, kan de anvende bæredygtige open source-komponenter](/node/512).
+Offentlige myndigheder undgår så vidt muligt løsninger, der skaber afhængighed af specifikke leverandører og teknologier, og [hvor det er relevant, kan de anvende bæredygtige open source-komponenter]((https://github.com/Faellesoffentlig-Digital-Arkitektur/Hvidbog-om-faellesoffentlig-digital-arkitektur/blob/main/Hvidbog%20om%20f%C3%A6llesoffentlig%20digital%20arkitektur.md#:~:text=standarder%20til%20dansk.-,AR%202.3%3A%20Undg%C3%A5%20afh%C3%A6ngighed%20af%20leverand%C3%B8rer%20og%20propriet%C3%A6re%20teknologier,-Offentlige%20myndigheder%20skal)).
 
 I valget mellem open source-software og proprietære løsninger er det ikke et spørgsmål om enten-eller, men om at vælge den løsning, der skaber værdi på baggrund af de udfordringer og behov, der er relevante for den enkelte myndighed.
 
