@@ -149,8 +149,8 @@ Offentlige myndigheder kan med fordel udarbejde egne, og gerne fælles, strategi
 5. Er mulighederne for at bruge EU-kommissionens værktøj til at sammenligne softwarelicenser undersøgt?  
    Offentlige myndigheder kan bruge EU-kommissionens [værktøj til at finde og sammenligne softwarelicenser](https://joinup.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant/jla-find-and-compare-software-licenses) med henblik på at vælge en open source-licens, der passer til den konkrete situation.
 6. Er retlige forpligtelser og omstændigheder for brug af open source-licenser undersøgt?  
-   Offentlige myndigheder, der er i tvivl om mulighederne for at kræve eller prioritere brug af (bestemte) open source-licenser ved udbud og anskaffelse af digitale løsninger, kan orientere sig i OS2-fællesskabet og Kammeradvokatens [notat vedrørende OS2-fællesskabet og open source](https://os2.eu/sites/default/files/blog-files/notat_os2_open_source.pdf), der beskriver retlige forpligtelser og omstændigheder for brug af open source-licenser.
-7. Er mulighederne for at frigive evt. leverandørers skriftlige dokumentation som open source undersøgt?  
+   Offentlige myndigheder, der er i tvivl om mulighederne for at kræve eller prioritere brug af (bestemte) open source-licenser ved udbud og anskaffelse af digitale løsninger, kan orientere sig i OS2-fællesskabet og Kammeradvokatens [notat vedrørende OS2-fællesskabet og open source](https://boks.os2.eu/s/LjiBacdqSpGQNZS), der beskriver retlige forpligtelser og omstændigheder for brug af open source-licenser.
+8. Er mulighederne for at frigive evt. leverandørers skriftlige dokumentation som open source undersøgt?  
    Offentlige myndigheder kan sørge for, at skriftligt materiale, der udarbejdes af tilbudsgiver, herunder dokumentation, licenseres under en passende open source-licens, f.eks. en Creative Commons-licens.
 
 ### Implementering
